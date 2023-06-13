@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Profile
+## Hello My Name Is 'Sabil'
+I'm currently a third year management student at Univeritas Putra Bangsa
